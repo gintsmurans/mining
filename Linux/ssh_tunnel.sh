@@ -4,6 +4,7 @@
 # Debian:
 # apt-get install screen
 #
+# Monit example:
 # check process ssh-tunnel matching "^ssh -N sshtunnel"
 #    user root
 #    start program = "/root/ssh_tunnel.sh"
