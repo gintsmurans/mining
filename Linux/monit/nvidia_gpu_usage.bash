@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Make sure you have nvidia-smi installed, see more here: https://github.com/gintsmurans/mining#nvidia
+# Make sure you have nvidia-smi installed, see more here: https://github.com/gintsmurans/mining/tree/master/Linux#nvidia
 #
 # Monit example configuration:
 #
