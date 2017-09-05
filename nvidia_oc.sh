@@ -3,6 +3,12 @@
 #
 # Examples from:
 # https://gist.github.com/bsodmike/369f8a202c5a5c97cfbd481264d549e9
+#
+# To run it, I do it this way:
+# nano /etc/cron.d/system
+# @reboot root sleep 60 && /root/nvidia_oc.sh
+# Ctrl + X -> y -> Enter
+#
 
 # Start X
 X :1 &
