@@ -1,6 +1,6 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ## Nvidia
+# Nvidia
 
-###Debian
+### Debian
 1. Download .run file from here: http://www.nvidia.com/object/unix.html, for example:
 
     wget http://us.download.nvidia.com/XFree86/Linux-x86_64/384.69/NVIDIA-Linux-x86_64-384.69.run
