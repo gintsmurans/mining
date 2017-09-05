@@ -8,4 +8,4 @@
 # screen -r flypool
 #
 
-screen -dmS flypool sh -c './miner --server eu1-zcash.flypool.org --port 3333 --user t1UrvDwjLoyVsxuP5eUaetPEDkb6JtfiHXu.W1 --pass x --templimit 85 --tempunits C --fee 1 --cuda_devices 0 1 2 3; exec bash'
+screen -dmS flypool sh -c './miner --server eu1-zcash.flypool.org --port 3333 --user t1UrvDwjLoyVsxuP5eUaetPEDkb6JtfiHXu.W1 --pass x --templimit 85 --tempunits C --pec --fee 1 --cuda_devices 0 1 2 3; exec bash'
