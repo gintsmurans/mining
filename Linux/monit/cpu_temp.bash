@@ -6,7 +6,6 @@
 #   sensors-detect
 #
 # Monit example configuration:
-#
 # check program CPU-Temp with path "/root/monit/cpu_temp.bash"
 #    user root
 #    if status > 60 then alert
