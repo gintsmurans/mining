@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # Monit example:
 # check process nicehash matching "^./miner --server equihash.eu.nicehash.com"

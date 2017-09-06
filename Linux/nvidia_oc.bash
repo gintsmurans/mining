@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+#
 # NVidia OC
 #
 # Examples from:
