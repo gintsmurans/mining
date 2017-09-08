@@ -5,7 +5,7 @@
 # Monit example configuration:
 # check program GPU-Usage with path "/root/monit/gpu_usage.bash"
 #    user root
-#    if status < 50 then alert
+#    if status < 50 2 cycles then alert
 #
 # We are not using utilization.gpu because there has been cases where utilization is 100%,
 # but power draw is only 40W with a very low hashrate
